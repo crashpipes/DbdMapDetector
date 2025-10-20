@@ -1,0 +1,68 @@
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\bin\Debug\x86\tesseract50.dll
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\bin\Debug\x64\tesseract50.dll
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.exe.config
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.exe
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.pdb
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\bin\Debug\Tesseract.dll
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.AssemblyReference.cache
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.Form1.resources
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.Properties.Resources.resources
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.GenerateResource.cache
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.CoreCompileInputs.cache
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDe.AFB8BEDF.Up2Date
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.exe
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.pdb
+C:\Users\pmoli\Desktop\projets c sharp\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.exe.config
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\bin\Debug\x86\leptonica-1.82.0.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\bin\Debug\x86\tesseract50.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\bin\Debug\x64\leptonica-1.82.0.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\bin\Debug\x64\tesseract50.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.exe.config
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.exe
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.pdb
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\bin\Debug\Tesseract.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.AssemblyReference.cache
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.exe.config
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.Form1.resources
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.Properties.Resources.resources
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.GenerateResource.cache
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.CoreCompileInputs.cache
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDe.AFB8BEDF.Up2Date
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.exe
+H:\Projets\DbdMapDetector\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.pdb
+H:\Projets\DbdMapDetector\DbdMapDetector\bin\Debug\x86\leptonica-1.82.0.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\bin\Debug\x86\tesseract50.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\bin\Debug\x64\leptonica-1.82.0.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\bin\Debug\x64\tesseract50.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.exe.config
+H:\Projets\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.exe
+H:\Projets\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.pdb
+H:\Projets\DbdMapDetector\DbdMapDetector\bin\Debug\Tesseract.dll
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.AssemblyReference.cache
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.exe.config
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.Properties.Resources.resources
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.GenerateResource.cache
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.CoreCompileInputs.cache
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDe.AFB8BEDF.Up2Date
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.exe
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.pdb
+H:\Projets\DbdMapDetector\DbdMapDetector\obj\Debug\GraphicsExtensions.resources
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.AssemblyReference.cache
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.exe.config
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\GraphicsExtensions.resources
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.Properties.Resources.resources
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.GenerateResource.cache
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.csproj.CoreCompileInputs.cache
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.exe
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDetector.pdb
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\bin\Debug\x86\tesseract50.dll
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\bin\Debug\x64\tesseract50.dll
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.exe.config
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.exe
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\bin\Debug\DbdMapDetector.pdb
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\bin\Debug\Tesseract.dll
+C:\Users\pmoli\Desktop\DbdMapDetector (1)\DbdMapDetector\DbdMapDetector\obj\Debug\DbdMapDe.AFB8BEDF.Up2Date
