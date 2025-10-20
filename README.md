@@ -9,6 +9,8 @@ The program scans the name of the map that appears at the bottom of the
 screen when you press **ESC** in a game. It then shows the corresponding
 map image as an overlay on your screen.
 
+I made a quick tutorial here : https://www.youtube.com/watch?v=EZeXosj2a50
+
 ## 🚀 How to Use
 
 1.  **Launch** `DbdMapDetector.exe` (DbdMapDetector\bin\Debug\DbdMapDetector.exe)
