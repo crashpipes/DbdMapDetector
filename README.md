@@ -6,7 +6,7 @@ A simple program that displays an overlay of every map you load into on
 ## 🧩 How It Works
 
 The program scans the name of the map that appears at the bottom of the
-screen when you press **ESC** in a game. It then shows the corresponding
+screen when you press **TAB** in a game. It then shows the corresponding
 map image as an overlay on your screen.
 
 I made a quick tutorial here : https://www.youtube.com/watch?v=EZeXosj2a50
@@ -15,7 +15,7 @@ I made a quick tutorial here : https://www.youtube.com/watch?v=EZeXosj2a50
 
 1.  **Launch** `DbdMapDetector.exe` (DbdMapDetector\bin\Debug\DbdMapDetector.exe)
 2.  **Start** a Dead by Daylight match
-3.  When in-game, **press `Esc` and then `F3`**
+3.  When in-game, **press `Tab` and then `F3`**
     -   A map should appear in the **top-left** of your screen.
 4.  For maps with **multiple variations**, the program can't detect them
     precisely (since the variation name isn't displayed).
